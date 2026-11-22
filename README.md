@@ -20,7 +20,9 @@ usage.csv	40.000	Registros de uso: id, user_id, type (call/text), date, duration
 Os arquivos são carregados diretamente pelas URLs públicas, dentro do próprio notebook:
 
 https://practicum-content.s3.us-west-1.amazonaws.com/datasets/plans.csv
+
 https://practicum-content.s3.us-west-1.amazonaws.com/datasets/users_brasil.csv
+
 https://practicum-content.s3.us-west-1.amazonaws.com/datasets/usage.csv
 
 A coluna churn_date vazia indica que o cliente continua ativo; ela não é tratada como erro.
