@@ -54,11 +54,11 @@ As conclusões completas e as recomendações estão na Etapa 7 do notebook.
 ▶️ Como executar o notebook
 Opção A: Google Colab (recomendada)
 Acesse o Google Colab.
-Vá em File → Open notebook → GitHub e **cole a URL deste repositório (ou Upload do arquivo .ipynb)**.
+Vá em File → Open notebook → GitHub e cole a URL deste repositório (ou Upload do arquivo .ipynb).
 
 Opção B: Jupyter local
 bash
-git clone **https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git**
+git clone https://github.com/soaresguilherme10/ConnectaTel_Analysis.git
 cd SEU_REPOSITORIO
 pip install pandas seaborn matplotlib numpy jupyter
 jupyter notebook
